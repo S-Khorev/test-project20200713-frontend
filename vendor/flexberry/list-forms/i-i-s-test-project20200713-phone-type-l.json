@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-test-project20200713-phone-type-e",
+  "editForm": "i-i-s-test-project20200713-phone-type-e",
+  "external": false,
+  "caption": "Phone type",
+  "name": "IISTestProject20200713PhoneTypeL",
+  "className": "PhoneTypeL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test-project20200713-phone-type",
+      "modelProjection": "PhoneTypeL"
+    }
+  ]
+}

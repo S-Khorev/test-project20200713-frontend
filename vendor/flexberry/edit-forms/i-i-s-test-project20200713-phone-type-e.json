@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Phone type",
+  "name": "IISTestProject20200713PhoneTypeE",
+  "className": "PhoneTypeE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test-project20200713-phone-type",
+      "modelProjection": "PhoneTypeE"
+    }
+  ]
+}
